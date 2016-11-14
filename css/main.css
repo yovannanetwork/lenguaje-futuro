@@ -1,3 +1,74 @@
 /*
 	Inserta tu CSS aqui
 */
+body{
+    margin: auto;
+    
+}
+header img.grupal{
+    width: 100%;
+    position: absolute;
+    
+}
+header img.logo{
+    position: relative;
+    width: 500px;
+    margin: 100px 380px;
+}
+header button{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+header ul{
+    position: relative;
+    list-style: none;
+    left: 900px;
+    bottom: 230px;
+}
+header ul li{
+    display: inline-block;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-right: 15px;
+}
+header a{
+    text-decoration: none;
+    color: black;
+}
+section ul{
+    list-style: none;
+    position: relative;
+    top: 580px
+}
+section ul li{
+    display: inline-block;
+}
+section ul li img{
+    width: 400px;
+    padding-left: 20px;
+}
+.lista{
+    margin: x;
+}
+.lista span{
+    position: absolute;
+    top: 280px;
+    margin-left: -400px;
+    font-family: arial black;
+}
+footer{
+    margin-top: 640px;
+    background: black;
+    padding: 15px;
+}
+footer ul li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+}
