@@ -23,6 +23,7 @@ header button{
     padding: 10px 30px;
     border-radius: 8px;
     font-size: 20px;
+    border: 1px solid orange;
 }
 header ul{
     position: relative;
