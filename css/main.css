@@ -1,0 +1,55 @@
+/*
+	Inserta tu CSS aqui
+*/
+body{
+    
+}
+header{
+    background-image: url(../img/grupal.jpg);
+    height: 800px;
+    background-size: cover;  
+}
+header button{
+    background: orange;
+    border-radius: 3px;
+    padding: 8px 25px;
+    margin: 85px;
+    border: 1px solid orange;
+}
+header img{
+   margin-top: 90px;  
+}
+header ul{
+    list-style: none;
+}
+header ul li{
+    display: inline-block;
+    padding: 20px;
+    margin-top: 50px;
+}
+header ul li a{
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.lista img{
+    margin-top: 25px;
+}
+.lista span{
+    position: relative;
+    top: 30px;
+    font-family: arial black;
+    font-size: 20px;
+}
+footer{
+    margin-top: 50px;
+    background: #333;
+    padding: 15px;
+}
+footer ul li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+}
